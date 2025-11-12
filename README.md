@@ -1,0 +1,1 @@
+This script will make for you a VM on linux using QEMU? just run it and you will have macOS on linux! All you need is linux? this script and to choose version to download. You will also need to configure OpenCore-Boot.sh, here you select the size of RAM and anything you want.
